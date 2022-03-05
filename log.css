@@ -1,0 +1,34 @@
+body {
+    background-color: #df1414;
+    font-family: "Roboto", sans-serif;
+   
+}
+  .login-box {
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+}
+
+  
+p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+
+#sub
+{
+    padding-left: 20px;
+}
+  .para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+}
+.para-2 a {
+    color: #49c1a2;
+}
